@@ -2,8 +2,3 @@ permalink:  /:year/:month/:day/:title
 auto: false
 safe: false
 pygments: true
-
-provider : disqus
-  disqus :
-    short_name: chengzheqiao
-
